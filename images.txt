@@ -1,6 +1,5 @@
 nginx
 #支持私库
 docker.ermao.net/ermaozi/tuilan_client
-docker.ermao.net/mlikiowa/napcat-docker:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
